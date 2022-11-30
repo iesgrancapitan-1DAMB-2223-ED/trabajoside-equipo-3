@@ -1,4 +1,4 @@
-#### ATOM y CODESANDBOX
+# ATOM y CODESANDBOX
 
 
 **Equipo 3** ( orden exposición 5 )
@@ -7,8 +7,9 @@
 - Fco Jesus Córdoba
 - Rocío Zuara
 
-Pdf presentacion de Practica [CodeSandBox VS Atom](CodeSandBox_Atom.pdf)
+Link PDF presentacion de Practica -> [CodeSandBox VS Atom](CodeSandBox_Atom.pdf)
 
-Program Hello World HTML [HTML File](https://link_to_html.com)
+**Program Hello World**
+CodeSandBox HTML [Codigo Fuente en IDE](https://codesandbox.io/s/html-hello-world-2jy5ul) y enlace publico del codigo interprestado por el navegador [Ver resultado en el Navegador](https://2jy5ul.csb.app/) 
 
-Program Hello World Vanilla [JavaScript Vanilla](https://link_to_vanilla.com)
+CodeSandBox Vanilla JavaScript [Codigo Fuente en IDE](https://codesandbox.io/s/vanillajs-hello-world-j39vim) y enlace publico del codigo interprestado por el navegador [Ver resultado en el Navegador](https://j39vim.csb.app/) 
